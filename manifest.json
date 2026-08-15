@@ -1,0 +1,18 @@
+{
+  "name": "Yohannis Mesfin Portfolio",
+  "short_name": "Yohannis M.",
+  "description": "Full Stack Developer specializing in React and Node.js",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#00e5ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
